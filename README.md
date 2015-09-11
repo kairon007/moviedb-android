@@ -47,7 +47,8 @@ In order to use MovieDB you need to get your own key from TMDb. You can do that 
 
 Environment
 --------------
-This project has been build with Android Studio 1.3.2
+[![Build Status](https://api.travis-ci.org/sourcestream/moviedb-android.svg?branch=master)](http://travis-ci.org/sourcestream/moviedb-android)
+</br>This project has been build with Android Studio 1.3.2
 </br>SDK Build Tools version 23.0.0
 </br>Minimum SDK version for the app is 	17 (Android 4.2, 4.2.2).
 </br>Target SDK version for the app is 23 (Android 6.0).
