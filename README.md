@@ -4,9 +4,9 @@ Movie DB is an Android app with open source code. Movie DB finds information abo
 Movie DB uses [TMDb API](https://www.themoviedb.org/documentation/api) which has large collection of information about movies, TV shows and actors.
 We offer friendly and intuitive user interface. You can view information such as: trailers, images, credits, known for, overview, biography, etc. You can search your favourite actor, movie or TV show. Browse movies by specific genre and more!
 
-<img src="https://raw.githubusercontent.com/radikan/test/master/images/1.png" width="216" height="384">
-<img src="https://raw.githubusercontent.com/radikan/test/master/images/2.png" width="216" height="384">
-<img src="https://raw.githubusercontent.com/radikan/test/master/images/5.png" width="216" height="384">
+<img src="https://raw.githubusercontent.com/sourcestream/moviedb-android/master/images/1.png" width="216" height="384">
+<img src="https://raw.githubusercontent.com/sourcestream/moviedb-android/master/images/2.png" width="216" height="384">
+<img src="https://raw.githubusercontent.com/sourcestream/moviedb-android/master/images/5.png" width="216" height="384">
 <br/>
 ### Download from Google Play
 
