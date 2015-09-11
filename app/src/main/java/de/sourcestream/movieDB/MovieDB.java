@@ -41,7 +41,7 @@ public class MovieDB extends Application {
     public void onCreate() {
         super.onCreate();
         analytics = GoogleAnalytics.getInstance(this);
-        tracker = analytics.newTracker(analyticsKey); // Replace with actual tracker/property Id
+        tracker = analytics.newTracker(analyticsKey); // Replace with actual tracker/ property Id
     }
 
     public Tracker getTracker() {
