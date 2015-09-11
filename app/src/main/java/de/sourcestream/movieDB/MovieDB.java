@@ -25,7 +25,7 @@ public class MovieDB extends Application {
     public static GoogleAnalytics analytics;
     public static Tracker tracker;
     public static final String url = "https://api.themoviedb.org/3/";
-    public static final String key = "9240df08dd6c9b571b9ac415eb5dd7a0";
+    public static final String key = "yourTMDBkey";
     public static final String imageUrl = "https://image.tmdb.org/t/p/";
     /**
      * Example URL:
@@ -35,7 +35,7 @@ public class MovieDB extends Application {
      */
     public static final String trailerImageUrl = "http://i1.ytimg.com/vi/";
     public static final String youtube = "https://www.youtube.com/watch?v=";
-    public static final String analyticsKey = "UA-64764946-1";
+    public static final String analyticsKey = "yourGoogleAnalyticsKey";
 
     @Override
     public void onCreate() {

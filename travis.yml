@@ -16,7 +16,7 @@ before_script:
   - android-wait-for-emulator
 
 script:
-    - ./gradlew test
+    - ./gradlew test --continue
 
 notifications:
   email: false
