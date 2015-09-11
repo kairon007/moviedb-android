@@ -52,7 +52,7 @@ This project has been build with Android Studio 1.3.2
 </br>Minimum SDK version for the app is 	17 (Android 4.2, 4.2.2).
 </br>Target SDK version for the app is 23 (Android 6.0).
 </br>Movie DB is supported currently for phones only, but you can run it on tablet.
-</br>Supported devices: 4709. You can see the full list [here](https://github.com/radikan/test/blob/master/documents/supported%20devices.pdf).
+</br>Supported devices: 4709. You can see the full list [here](https://github.com/sourcestream/moviedb-android/blob/master/documents/supported%20devices.pdf).
 
 Libraries
 --------------
